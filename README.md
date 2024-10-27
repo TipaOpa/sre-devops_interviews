@@ -1,11 +1,11 @@
 # sre-devops_interviews
-- [lunux/network](#lunux/network)
-- [k8s](#k8s/docker)
+- [lunux/network](#lunuxnetwork)
+- [k8s/docker](#k8sdocker)
 - [databases](#databases)
-- [ci/cd git](#ci/cd-git)
-- [ansible/terraform](#ansible/terraform)
+- [ci/cd git](#cicd-git)
+- [ansible/terraform](#ansibleterraform)
 - [coding](#coding)
-- [обшие вопросы по sre/devops](#обшие-вопросы-по-sre/devops)
+- [обшие вопросы по sre/devops](#обшие-вопросы-по-sredevops)
 
 ## Lunux/network
 - TLS: рассказать как работает, обычно на примере HTTPS
