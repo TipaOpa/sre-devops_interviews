@@ -2,8 +2,7 @@
 - [lunux/network](#lunux/network)
 - [k8s](#k8s/docker)
 - [databases](#databases)
-- [ci/cd](#ci/cd)
-- [git](#git)
+- [ci/cd git](#ci/cd-git)
 - [ansible/terraform](#ansible/terraform)
 - [coding](#coding)
 - [обшие вопросы по sre/devops](#обшие-вопросы-по-sre/devops)
@@ -41,11 +40,10 @@
 - ACID и BASE
 - для какого типа данных нельзя создать индекс?
 - Mysql: типы движков таблиц
-## ci/cd
+## ci/cd git
 - типы деплоев
 - вот есть несколько репозиториев и тебе надо в каждый добавить одинаковую джобу
-  - ожидается что расскажешь об git includes
-## git 
+  - ожидается что расскажешь об git includes 
 - чем rebase отличается от merge
 ## ansible/terraform
 - чем отличается в ansible command от shell и от raw?
