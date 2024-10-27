@@ -5,6 +5,7 @@
 - [ci/cd](#ci/cd)
 - [git](#git)
 - [ansible/terraform](#ansible/terraform)
+- [coding](#coding)
 - [обшие вопросы по sre/devops](#обшие-вопросы-по-sre/devops)
 
 ## Lunux/network
@@ -42,11 +43,18 @@
 - Mysql: типы движков таблиц
 ## ci/cd
 - типы деплоев
+- вот есть несколько репозиториев и тебе надо в каждый добавить одинаковую джобу
+  - ожидается что расскажешь об git includes
 ## git 
 - чем rebase отличается от merge
 ## ansible/terraform
 - чем отличается в ansible command от shell и от raw?
 - terraform: чем отличается count от foreach
+## coding
+- что такое лямбда функции?
+- что такое decorator в python
+- какой элемент в python содержит не повторяющиеся элементы
+  - set (множество по русски)
 ## обшие вопросы по sre/devops
 - что такое metrics cardinality и чем это опасно?
 - 4 золотых сигнала SRE
